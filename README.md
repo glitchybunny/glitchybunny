@@ -1,6 +1,6 @@
-☺️ Riley </br>
+☺️ Glitch </br>
 🌈 they/them </br>
-📧 riley@rtay.io
+📧 glitch@rtay.io
 
 <!--
 **darkrilin/darkrilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
