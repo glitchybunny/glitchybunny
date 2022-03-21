@@ -1,9 +1,9 @@
 ☺️ Glitch </br>
-🌈 they/them </br>
+🌈 it/its </br>
 📧 glitch@rtay.io
 
 <!--
-**darkrilin/darkrilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
