@@ -1,4 +1,4 @@
-☺️ Glitch </br>
+🐰 Glitch </br>
 🌈 it/its </br>
 📧 glitch@rtay.io
 
